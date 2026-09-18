@@ -1,0 +1,515 @@
+article,general_summary,requirement
+1,"General Summary:
+This article outlines the rules and regulations set forth by the GDPR for the protection of personal data and the free movement of such data within the European Union. It emphasizes the importance of safeguarding the fundamental rights and freedoms of individuals, particularly their right to data protection.","1. Ensure compliance with rules regarding the processing of personal data.
+2. Protect the fundamental rights and freedoms of natural persons.
+3. Allow for the free movement of personal data within the EU without restrictions or prohibitions related to data protection concerns."
+2,"General Summary:
+The article outlines the scope of the GDPR, specifying that it applies to the processing of personal data by automated means or non-automated means forming part of a filing system. It also lists exceptions where the GDPR does not apply, such as personal data processing falling outside Union law activities or for personal/household activities.","- Ensure that personal data processing is done in compliance with the GDPR when using automated means or when personal data is part of a filing system.
+- Be aware of the exceptions where the GDPR does not apply, such as personal data processing outside Union law activities or for personal/household activities."
+3,"General Summary:
+The article outlines the scope of the GDPR, specifying that it applies to the processing of personal data within the activities of an establishment in the EU, regardless of where the processing occurs. It also extends to the processing of data of individuals in the EU by controllers or processors outside the EU if the processing relates to offering goods/services or monitoring behavior within the EU.","1. The GDPR applies to the processing of personal data within the activities of an establishment in the EU.
+2. The GDPR also applies to the processing of personal data of individuals in the EU by controllers or processors outside the EU if the processing is related to offering goods/services or monitoring behavior within the EU.
+3. Compliance is required even if the controller is not established in the EU but operates in a place where Member State law applies by public international law."
+4,"This article defines key terms related to personal data and processing under the GDPR, such as personal data, processing, profiling, controller, processor, consent, and more.","- Organizations must ensure that personal data is processed in compliance with the definitions and principles outlined in the GDPR.
+- Controllers and processors must clearly define their roles and responsibilities in processing personal data.
+- Consent from data subjects must be freely given, specific, informed, and unambiguous.
+- Organizations must implement measures to protect personal data from breaches and unauthorized access.
+- Organizations must adhere to the GDPR's requirements for cross-border processing and relevant objections."
+5,"The article outlines key principles for processing personal data under GDPR, emphasizing the importance of lawfulness, fairness, transparency, purpose limitation, data minimization, accuracy, storage limitation, and integrity/confidentiality. It also highlights the controller's responsibility for ensuring compliance with these principles.","1. Process personal data lawfully, fairly, and transparently.
+2. Collect data for specified, legitimate purposes and avoid incompatible processing.
+3. Minimize data to what is necessary for the intended purposes.
+4. Maintain accurate data and rectify inaccuracies promptly.
+5. Limit data retention to necessary periods, with exceptions for specific purposes.
+6. Ensure appropriate security measures to protect personal data.
+7. Demonstrate compliance with GDPR principles (accountability)."
+6,"This article outlines the conditions under which processing of personal data is considered lawful under the GDPR. It specifies various scenarios where processing is allowed, such as with consent, for contractual obligations, legal compliance, protection of vital interests, public interest tasks, or legitimate interests. It also mentions that Member States can introduce specific provisions for processing under certain circumstances.","1. Processing must have the data subject's consent for specific purposes.
+2. Processing must be necessary for performance of a contract or steps before entering into a contract.
+3. Processing must comply with legal obligations.
+4. Processing must protect vital interests of the data subject or another person.
+5. Processing must be for public interest tasks or official authority.
+6. Processing must be for legitimate interests, unless overridden by data subject's rights.
+7. Member States can introduce specific provisions for processing under certain points.
+8. The legal basis for processing must be laid down by Union law or Member State law.
+9. The purpose of processing must be determined by the legal basis.
+10. Consider compatibility of processing with the initial purpose of data collection.
+11. Take into account various factors when assessing compatibility for further processing."
+7,"General Summary:
+This article focuses on the requirement for controllers to obtain valid consent from data subjects before processing their personal data. It outlines specific conditions for obtaining consent, such as ensuring it is freely given, specific, informed, and easily withdrawable.","- Controllers must be able to demonstrate that data subjects have consented to the processing of their personal data.
+- Consent requests must be presented clearly and separately from other matters, using plain language.
+- Data subjects have the right to withdraw consent at any time, without affecting the lawfulness of prior processing.
+- Data subjects must be informed before giving consent, and it should be as easy to withdraw consent as it is to give it.
+- Consent must be freely given, without being a condition for the performance of a contract or service."
+8,"General Summary:
+This article outlines the age requirements for processing personal data of children in the context of offering information society services. It specifies that if a child is at least 16 years old, their personal data can be processed lawfully. If the child is below 16 years old, processing is only lawful with consent from the parent or guardian, unless a Member State allows for a lower age not below 13 years.","1. Personal data of children can be processed lawfully if the child is at least 16 years old.
+2. If the child is below 16 years old, processing requires consent from the parent or guardian.
+3. Member States can set a lower age limit for processing personal data of children, but not below 13 years.
+4. Controllers must make reasonable efforts to verify parental consent.
+5. General contract law of Member States related to contracts with children is not affected by this article."
+9,"This article outlines the prohibition on processing certain sensitive personal data such as racial or ethnic origin, political opinions, religious beliefs, genetic data, etc., unless specific conditions are met. It provides exceptions where processing may be allowed, such as explicit consent from the data subject, protection of vital interests, legal obligations, public interest reasons, and more.","- Explicit consent from the data subject for processing sensitive data.
+- Processing necessary for legal obligations or exercising specific rights.
+- Processing to protect vital interests of the data subject or another person.
+- Processing by non-profit organizations with appropriate safeguards.
+- Processing of publicly disclosed personal data.
+- Processing for legal claims, preventive medicine, public health, etc.
+- Processing for archiving, research, or statistical purposes.
+- Processing by professionals subject to secrecy obligations.
+- Member States may impose additional conditions on processing sensitive data."
+10,"General Summary:
+This article specifies that the processing of personal data related to criminal convictions and offenses must be done under the control of official authority or as authorized by specific laws that protect the rights of data subjects. It also emphasizes that any comprehensive register of criminal convictions should be maintained solely by official authorities.","- Processing of personal data related to criminal convictions and offenses must be under the control of official authority or authorized by relevant laws.
+- Adequate safeguards for the rights and freedoms of data subjects must be in place during the processing.
+- Comprehensive registers of criminal convictions should only be maintained by official authorities."
+11,"General Summary:
+This article states that if a controller no longer needs to identify a data subject for processing personal data, they are not required to maintain or acquire additional information for identification purposes under the GDPR. If the controller cannot identify the data subject, they must inform the individual, and certain GDPR articles may not apply unless the data subject provides additional information for identification.","1. Controllers are not obligated to maintain or acquire additional information for identifying data subjects if it is not necessary for processing.
+2. If the controller cannot identify the data subject, they must inform the individual.
+3. Certain GDPR articles may not apply unless the data subject provides additional information for identification."
+12,"The article outlines the requirements for controllers to provide data subjects with clear and accessible information regarding the processing of their data, facilitate the exercise of data subject rights, respond to requests promptly, and handle requests for information in a transparent and compliant manner.","1. Provide information to data subjects in a concise, transparent, intelligible, and easily accessible form using clear and plain language.
+2. Facilitate the exercise of data subject rights under Articles 15 to 22.
+3. Provide information on actions taken on requests within one month, with a possible extension of two months in complex cases.
+4. Inform data subjects promptly if action is not taken on their request, providing reasons and guidance on lodging complaints.
+5. Provide information and actions under Articles 13, 14, 15 to 22 free of charge, unless requests are manifestly unfounded or excessive.
+6. Demonstrate the manifestly unfounded or excessive nature of requests if charging a fee or refusing to act.
+7. Verify the identity of data subjects if there are doubts.
+8. Use standardized icons to provide a clear overview of data processing, with machine-readable electronic presentation.
+9. Comply with any delegated acts by the Commission regarding the use of icons and procedures for"
+13,"General Summary:
+This article outlines the requirements for controllers to provide data subjects with specific information when collecting personal data. It includes details such as the identity of the controller, purposes of processing, recipients of data, data transfers, storage period, data subject rights, withdrawal of consent, lodging complaints, and automated decision-making.","- Provide data subjects with information about the controller's identity, contact details, and representative (if applicable).
+- Disclose the purposes of processing and legal basis, including legitimate interests pursued.
+- Inform data subjects about recipients or categories of recipients of their personal data.
+- Notify data subjects about potential data transfers to third countries and safeguards in place.
+- Share the storage period of personal data and data subject rights, including access, rectification, erasure, and objection to processing.
+- Inform data subjects about the right to withdraw consent, lodge complaints, and the existence of automated decision-making.
+- Provide additional information if personal data will be further processed for a different purpose than initially collected."
+14,"This article outlines the information that controllers must provide to data subjects when personal data has not been obtained directly from them. It includes details such as the controller's identity, contact details, purposes of processing, recipients of data, and more. Additionally, it specifies the timeline for providing this information and exceptions to these requirements.","- Controllers must provide specific information to data subjects, including the controller's identity, contact details, purposes of processing, categories of data, recipients of data, and details on international data transfers.
+- Additional information must be provided to ensure fair and transparent processing, such as data storage period, legitimate interests, data subject rights, and more.
+- Information must be provided within a reasonable timeframe, either upon obtaining the data, at the first communication with the data subject, or when disclosing data to another recipient.
+- Prior to further processing personal data for a different purpose, data subjects must be informed.
+- Exceptions to providing information apply in certain cases where it is impossible or disproportionate to do so, or when there are legal obligations or confidentiality requirements."
+15,"General Summary:
+This article outlines the data subject's right to access personal data being processed by a controller. It specifies the information that the data subject is entitled to receive, including details about the processing purposes, categories of data, recipients, storage period, rights to rectification or erasure, and more. Additionally, it addresses the transfer of data to third countries and the right to be informed of safeguards. The article also mentions the controller's obligation to provide a copy of the personal data upon request, with the possibility of charging a reasonable fee for additional copies.","- The controller must confirm whether personal data is being processed and provide access to the data.
+- Information about processing purposes, data categories, recipients, storage period, rights to rectification or erasure, and objection rights must be disclosed.
+- Data subjects must be informed of safeguards when data is transferred to third countries.
+- The controller must provide a copy of the personal data undergoing processing, with the option to charge a reasonable fee for additional copies.
+- Information should be provided in a commonly used electronic form if requested electronically.
+- Providing a copy of personal data should not infringe on the rights and freedoms of others."
+16,"General Summary:
+This article outlines the rights of data subjects to request the correction of inaccurate personal data held by data controllers. It also specifies that data subjects have the right to have incomplete personal data completed by providing additional information.","- Data controllers must rectify inaccurate personal data without undue delay upon receiving a request from the data subject.
+- Data controllers must ensure that incomplete personal data is completed, including by accepting supplementary statements from the data subject."
+17,"General Summary:
+This article outlines the right of data subjects to request the erasure of their personal data from controllers under certain circumstances. It specifies the grounds on which the controller must erase the data and the exceptions to this requirement.","- The controller must erase personal data without undue delay if it is no longer necessary for the purposes for which it was collected.
+- Erasure is required if the data subject withdraws consent and there is no other legal basis for processing.
+- If the data subject objects to processing and there are no overriding legitimate grounds, the data must be erased.
+- Personal data must be erased if it was unlawfully processed or to comply with legal obligations.
+- Erasure is necessary for data collected in relation to information society services.
+- Controllers must inform other entities processing the data if erasure is requested.
+- Exceptions to erasure include cases where processing is necessary for freedom of expression, legal obligations, public interest in health, archiving, research, or legal claims."
+18,"General Summary:
+This article outlines the right of data subjects to request restriction of processing of their personal data under certain circumstances. It specifies the situations in which a data subject can request such restriction, including cases where the accuracy of the data is contested, the processing is unlawful, or the data is needed for legal claims. It also details the conditions under which restricted data can be processed and the requirement for the controller to inform the data subject when the restriction is lifted.","- Data subjects have the right to request restriction of processing in specific situations outlined in the article.
+- Restricted personal data can only be processed with the data subject's consent or for legal claims, protection of rights, or important public interests.
+- Controllers must inform data subjects before lifting the restriction of processing."
+19,"General Summary:
+This article outlines the obligation of the controller to communicate any rectification, erasure, or restriction of processing of personal data to recipients to whom the data has been disclosed. The controller must also inform the data subject about these recipients upon request.","1. Communicate any rectification, erasure, or restriction of processing of personal data to recipients.
+2. Inform the data subject about the recipients if requested."
+20,"General Summary:
+This article outlines the data subject's right to receive their personal data from a controller in a structured, machine-readable format, and to transmit this data to another controller without hindrance. It specifies the conditions under which this right applies, such as when processing is based on consent or a contract and is carried out by automated means.","- Data subjects have the right to receive their personal data in a structured, commonly used, and machine-readable format.
+- Data subjects can transmit their data to another controller without hindrance, under certain conditions.
+- The right to data portability applies when processing is based on consent or a contract and is carried out by automated means.
+- Data subjects have the right to have their personal data transmitted directly from one controller to another, where technically feasible.
+- This right does not apply to processing necessary for tasks in the public interest or the exercise of official authority.
+- The exercise of this right should not infringe upon the rights and freedoms of others."
+21,"General Summary:
+This article outlines the data subject's right to object to the processing of their personal data in certain situations, such as for direct marketing purposes or when the processing is based on specific legal grounds. It also specifies that the controller must stop processing the data unless they can demonstrate legitimate reasons that outweigh the data subject's interests.","1. Data subjects have the right to object to the processing of their personal data based on specific legal grounds (Article 6(1)(e) or (f)).
+2. Data subjects can object to the processing of their personal data for direct marketing purposes, including profiling related to such marketing.
+3. Controllers must stop processing personal data for direct marketing if the data subject objects.
+4. The right to object must be clearly and separately presented to the data subject at the latest by the time of the first communication.
+5. Data subjects can use automated means to exercise their right to object in the context of information society services.
+6. Data subjects can object to the processing of their personal data for scientific, historical research, or statistical purposes if it is not necessary for reasons of public interest."
+22,"General Summary:
+This article outlines the right of data subjects not to be subject to decisions based solely on automated processing, including profiling, that have legal effects or significantly affect them. It specifies exceptions to this right and requires data controllers to implement measures to safeguard the data subject's rights and freedoms in certain cases.","- Decision-making based on automated processing should not have legal effects or significantly affect the data subject unless it is necessary for a contract, authorized by law, or based on explicit consent.
+- Data controllers must implement measures to safeguard the data subject's rights and freedoms, including the right to human intervention, expressing their point of view, and contesting the decision.
+- Decisions should not be based on special categories of personal data unless specific conditions are met and measures are in place to protect the data subject's rights and freedoms."
+23,"General Summary:
+This article outlines that Union or Member State laws can restrict certain GDPR obligations and rights under specific circumstances related to national security, defense, public security, prevention of criminal activities, and other public interests. These restrictions must respect fundamental rights and freedoms and be proportionate in a democratic society.","- Legislative measures restricting GDPR obligations must specify purposes and categories of processing.
+- They must define the scope of restrictions, safeguards against abuse, and controller specifications.
+- Storage periods, risks to data subjects' rights, and informing data subjects about restrictions are essential aspects to be addressed."
+24,"General Summary:
+This article outlines the requirement for data controllers to implement appropriate technical and organizational measures to ensure compliance with the GDPR. It emphasizes the need to consider the nature of data processing, associated risks, and the rights of individuals. The measures should be regularly reviewed and updated, and may include the implementation of data protection policies. Adherence to approved codes of conduct or certification mechanisms can be used to demonstrate compliance.","- Implement appropriate technical and organizational measures to ensure GDPR compliance.
+- Regularly review and update these measures as necessary.
+- Consider the nature, scope, context, and purposes of data processing, as well as associated risks.
+- Implement data protection policies.
+- Adhere to approved codes of conduct or certification mechanisms to demonstrate compliance."
+25,"This article emphasizes the importance of implementing appropriate technical and organizational measures to protect personal data and ensure compliance with GDPR requirements. It highlights the need for controllers to consider factors such as the nature of processing, risks to individuals' rights, and data protection principles when determining and carrying out data processing activities.","1. Implement appropriate technical and organizational measures to ensure that only necessary personal data is processed for each specific purpose.
+2. Ensure that personal data processing is limited in terms of the amount collected, extent of processing, storage period, and accessibility.
+3. Implement measures to prevent personal data from being accessed without individual intervention by an indefinite number of natural persons.
+4. Consider utilizing an approved certification mechanism to demonstrate compliance with the requirements outlined in the article."
+26,This article outlines the responsibilities and requirements for joint controllers under the GDPR. It emphasizes the need for joint controllers to determine their respective responsibilities transparently and provide necessary information to data subjects.,"1. Joint controllers must transparently determine their respective responsibilities for GDPR compliance.
+2. They must establish an arrangement outlining their roles and relationships in processing personal data.
+3. The arrangement should designate a contact point for data subjects.
+4. Data subjects have the right to exercise their GDPR rights against each of the joint controllers."
+27,"General Summary:
+Article 3(2) of the GDPR requires controllers or processors to designate a representative in the Union under certain circumstances. However, there are exceptions to this requirement for specific types of processing activities. The representative must be established in a Member State where the data subjects are located and can be contacted by supervisory authorities and data subjects regarding compliance with the GDPR.","1. Designate a representative in the Union if Article 3(2) applies.
+2. Exceptions to this requirement include occasional processing that does not involve special categories of data or data relating to criminal convictions, and processing that is unlikely to pose risks to individuals' rights and freedoms.
+3. The representative must be established in a Member State where the data subjects are located.
+4. The representative must be mandated to address issues related to processing on behalf of the controller or processor with supervisory authorities and data subjects.
+5. The designation of a representative does not exempt the controller or processor from legal actions that may be initiated against them."
+28,"General Summary:
+This article outlines the responsibilities and requirements for processors who handle data on behalf of a controller under the GDPR. It emphasizes the need for processors to have appropriate technical and organizational measures in place to protect data subjects' rights and ensure compliance with the regulation.","- Processors must use only processors that provide sufficient guarantees to meet GDPR requirements and protect data subjects' rights.
+- Processors cannot engage another processor without the controller's authorization.
+- Processing by a processor must be governed by a contract or legal act that outlines specific details such as the nature of processing, data subjects, and obligations.
+- Processors must follow documented instructions from the controller, ensure confidentiality, take necessary security measures, assist the controller in responding to data subject requests, and assist in compliance with GDPR obligations.
+- Processors must delete or return data to the controller after processing ends, provide necessary compliance information, and allow for audits.
+- If a processor engages another processor, the same data protection obligations must be imposed on the other processor.
+- Adherence to an approved code of conduct or certification mechanism can demonstrate compliance.
+- The contract between the controller and processor must be in writing.
+- If a processor determines the purposes and means of processing, they will be considered a controller"
+29,"General Summary:
+This article outlines that individuals who have access to personal data must only process that data based on instructions from the controller, unless mandated by Union or Member State law.","- Individuals with access to personal data must follow instructions from the controller for processing the data.
+- Processing of personal data should only be done as per legal requirements set by Union or Member State law."
+30,"General Summary:
+This article outlines the requirement for controllers and processors to maintain records of processing activities they are responsible for. The records should include specific information such as the name and contact details of the controller, purposes of processing, categories of data subjects and personal data, recipients of data, data transfers, data erasure time limits, and security measures. The records must be in writing or electronic form and made available to supervisory authorities upon request. There are exceptions for small enterprises unless their processing activities pose risks to data subjects' rights and freedoms.","1. Controllers must maintain records of processing activities, including specific information as outlined in the article.
+2. Processors must also maintain records of processing activities on behalf of controllers, containing specific details.
+3. Records must be in writing or electronic form.
+4. Records must be made available to supervisory authorities upon request.
+5. Small enterprises with fewer than 250 employees are exempt from these obligations unless their processing activities pose risks to data subjects' rights and freedoms or involve special categories of data."
+31,"General Summary:
+This article emphasizes the importance of cooperation between data controllers, processors, their representatives, and the supervisory authority to facilitate the performance of tasks related to GDPR compliance.","- Data controllers, processors, and their representatives must cooperate with the supervisory authority upon request.
+- The cooperation should be aimed at supporting the supervisory authority in carrying out its tasks related to data protection compliance."
+32,"This article outlines the requirement for controllers and processors to implement appropriate technical and organizational measures to ensure the security of personal data processing. It emphasizes the importance of measures such as pseudonymization, encryption, confidentiality, integrity, availability, resilience, and the ability to restore data in case of incidents. Regular testing and evaluation of security measures are also highlighted.","1. Implement appropriate technical and organizational measures for data security.
+2. Utilize pseudonymization and encryption of personal data.
+3. Ensure ongoing confidentiality, integrity, availability, and resilience of processing systems and services.
+4. Have the ability to restore data access in a timely manner after incidents.
+5. Regularly test, assess, and evaluate the effectiveness of security measures.
+6. Consider risks such as accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access to personal data.
+7. Adhere to approved codes of conduct or certification mechanisms to demonstrate compliance.
+8. Ensure that individuals accessing personal data only process it based on instructions from the controller or as required by law."
+33,"General Summary:
+This article outlines the requirements for controllers and processors to notify the supervisory authority and data subjects in the event of a personal data breach. It specifies the timeline for notification, the content that must be included in the notification, and the documentation that must be maintained by the controller.","1. Controllers must notify the supervisory authority of a personal data breach without undue delay and within 72 hours of becoming aware of it, unless the breach is unlikely to result in risks to individuals' rights and freedoms.
+2. Processors must notify the controller promptly upon becoming aware of a personal data breach.
+3. The notification to the supervisory authority must include specific details about the breach, such as the nature of the breach, categories of data subjects affected, and measures taken to address the breach.
+4. Controllers must document all personal data breaches, including the facts, effects, and remedial actions taken, to enable the supervisory authority to verify compliance."
+34,This article outlines the requirement for controllers to communicate personal data breaches to data subjects when the breach is likely to result in a high risk to their rights and freedoms. It also specifies conditions under which such communication may not be required.,"- Controllers must communicate personal data breaches to data subjects without undue delay if the breach poses a high risk to their rights and freedoms.
+- The communication must be clear and plain, describing the nature of the breach and including specific information and measures.
+- Communication to data subjects may not be required if appropriate technical and organizational protection measures have been implemented, subsequent measures have mitigated the risk, or if communication would involve disproportionate effort.
+- If the breach has not been communicated to data subjects, the supervisory authority may require the controller to do so based on the likelihood of a high-risk breach."
+35,"This article outlines the requirement for controllers to conduct a data protection impact assessment in cases where processing activities may pose a high risk to individuals' rights and freedoms. It specifies the criteria for when such assessments are necessary and the elements that must be included in the assessment. The article also discusses the role of supervisory authorities in establishing lists of processing operations requiring assessment and the consideration of approved codes of conduct. Additionally, it highlights the importance of seeking the views of data subjects and conducting reviews to ensure ongoing compliance.","- Controllers must conduct a data protection impact assessment before processing activities that may result in a high risk to individuals' rights and freedoms.
+- The assessment must include a systematic description of processing operations, necessity and proportionality assessment, risk evaluation, and measures to address risks.
+- Supervisory authorities must establish and communicate lists of processing operations requiring assessments and those exempt from assessments.
+- Compliance with approved codes of conduct should be considered in impact assessments.
+- Controllers should seek the views of data subjects when appropriate and conduct reviews to ensure ongoing compliance."
+36,This article outlines the requirement for controllers to consult with the supervisory authority before processing data that poses a high risk to data subjects. It also specifies the obligations of controllers in providing information to the supervisory authority during consultation.,"- Controllers must consult the supervisory authority before processing data that poses a high risk.
+- Controllers must provide detailed information to the supervisory authority during consultation, including responsibilities, purposes, safeguards, and contact details.
+- Member States must consult the supervisory authority when proposing legislative or regulatory measures related to processing.
+- Member State law may require controllers to consult with the supervisory authority for certain public interest processing tasks."
+37,"This article outlines the requirement for the designation of a data protection officer by controllers and processors under certain circumstances, such as when processing is carried out by a public authority, involves large-scale monitoring of data subjects, or includes processing special categories of data. It also provides guidelines for appointing a data protection officer and their responsibilities.","1. Designate a data protection officer if processing is carried out by a public authority or body, involves large-scale monitoring of data subjects, or includes processing special categories of data.
+2. A group of undertakings may appoint a single data protection officer accessible from each establishment.
+3. For public authorities or bodies, a single data protection officer may be designated for multiple entities based on organizational structure and size.
+4. In other cases, controllers, processors, or associations representing them may designate a data protection officer as required by law.
+5. The data protection officer must have professional qualities, expert knowledge of data protection law, and be able to fulfill designated tasks.
+6. The data protection officer can be a staff member or work on a service contract.
+7. Publish and communicate the contact details of the data protection officer to the supervisory authority."
+38,This article outlines the responsibilities and role of the data protection officer (DPO) in ensuring the protection of personal data. It emphasizes the independence and support required for the DPO to carry out their tasks effectively.,"- The controller and processor must involve the DPO in all matters related to personal data protection.
+- The DPO should be supported with necessary resources and access to data for carrying out tasks.
+- The DPO should not receive instructions on how to perform their tasks and should report directly to top management.
+- Data subjects can contact the DPO for issues related to their personal data and rights.
+- The DPO must maintain confidentiality and may have additional tasks as long as there are no conflicts of interest."
+39,"General Summary:
+This article outlines the tasks and responsibilities of a data protection officer (DPO) under the GDPR. The DPO is required to inform and advise the controller or processor, monitor compliance with data protection regulations, provide advice on data protection impact assessments, cooperate with supervisory authorities, and act as a contact point for data processing issues.","- The DPO must inform and advise the controller or processor and employees on their obligations under the GDPR and other data protection laws.
+- The DPO is responsible for monitoring compliance with GDPR and other data protection laws, as well as the policies of the controller or processor.
+- The DPO must provide advice on data protection impact assessments and monitor their performance.
+- Cooperation with supervisory authorities is required.
+- The DPO acts as a contact point for supervisory authorities on processing issues and may consult on other matters.
+- The DPO must consider the risks associated with processing operations based on the nature, scope, context, and purposes of processing."
+40,"This article outlines the encouragement for the development of codes of conduct to ensure proper application of the GDPR, with a focus on various aspects of data processing. It also specifies the requirements for associations and bodies to prepare, amend, or extend such codes to address specific GDPR compliance areas.","- Codes of conduct should cover aspects such as fair and transparent processing, legitimate interests of controllers, data collection, pseudonymisation, information provision to the public and data subjects, data subject rights, protection of children's data, security measures, breach notifications, international data transfers, and dispute resolution.
+- Codes of conduct can be adhered to by entities not directly subject to the GDPR for data transfers, with binding commitments to apply appropriate safeguards.
+- Mechanisms should be in place for monitoring compliance with the code of conduct.
+- Draft codes, amendments, or extensions must be submitted to and approved by the relevant supervisory authority.
+- Codes of conduct approved by the supervisory authority should be registered and published.
+- Codes of conduct relating to multiple Member States should be submitted to the Board for review and approval.
+- The Commission may decide on the general validity of approved codes of conduct within the EU through implementing acts.
+- The Commission should ensure appropriate publicity for approved codes with"
+41,"This article outlines the procedures for monitoring compliance with a code of conduct under the GDPR. It specifies the requirements for accrediting a body to monitor compliance with a code of conduct, including independence, expertise, handling complaints, and avoiding conflicts of interest. The competent supervisory authority is responsible for accrediting such bodies and may revoke accreditation if requirements are not met.","- Bodies monitoring compliance with a code of conduct must demonstrate independence and expertise to the supervisory authority.
+- Procedures must be established to assess eligibility of controllers and processors, monitor compliance, review operations, and handle complaints transparently.
+- Bodies must ensure tasks and duties do not result in conflicts of interest.
+- The competent supervisory authority must submit draft requirements for accreditation to the Board.
+- Accredited bodies must take appropriate action in cases of code infringement, including informing the supervisory authority.
+- The supervisory authority will revoke accreditation if requirements are not met or if actions infringe the GDPR.
+- This article does not apply to processing by public authorities and bodies."
+42,"This article outlines the establishment of data protection certification mechanisms, seals, and marks to demonstrate compliance with the GDPR by controllers and processors. It emphasizes the voluntary nature of certification, the consideration of small and medium-sized enterprises, and the issuance and renewal of certifications for a maximum of three years.","- Controllers and processors subject to the GDPR should adhere to data protection certification mechanisms, seals, or marks to demonstrate compliance.
+- Controllers or processors transferring data to third countries should make binding commitments to apply appropriate safeguards.
+- Certification bodies or supervisory authorities should issue certifications based on approved criteria.
+- Certifications should be renewed every three years if criteria are met, and withdrawn if criteria are not or are no longer met.
+- The Board should maintain a register of certification mechanisms and make them publicly available."
+43,"General Summary:
+This article outlines the requirements for certification bodies to issue and renew data protection certifications under the GDPR. It specifies the accreditation process, independence, expertise, procedures, and responsibilities of certification bodies. Additionally, it discusses the renewal process, transparency in handling complaints, and the revocation of accreditation when necessary.","- Certification bodies must have an appropriate level of expertise in data protection.
+- Certification bodies must be accredited by the competent supervisory authority or national accreditation body.
+- Certification bodies must demonstrate independence and expertise, respect criteria, establish procedures for certification issuance and review, handle complaints transparently, and avoid conflicts of interest.
+- Accreditation of certification bodies must be based on approved requirements by the supervisory authority or the Board.
+- Certification bodies are responsible for proper assessment leading to certification or withdrawal, with accreditation lasting a maximum of five years.
+- Certification bodies must provide reasons for granting or withdrawing certification to supervisory authorities.
+- Requirements and criteria for certification mechanisms must be made public and transmitted to the Board.
+- Accreditation may be revoked if conditions are not met or if actions infringe the GDPR.
+- The Commission may adopt delegated and implementing acts to specify requirements and technical standards for certification mechanisms and data protection seals and marks."
+44,"General Summary:
+This article outlines the conditions that must be met for the transfer of personal data to a third country or international organization. It emphasizes the importance of complying with the provisions in this chapter to ensure the protection of individuals' data is not compromised.","- Personal data transfers to third countries or international organizations must comply with the conditions set out in this chapter.
+- The level of protection of individuals' data guaranteed by the GDPR must not be undermined during such transfers."
+45,This article outlines the conditions under which a transfer of personal data to a third country or international organization can take place if the Commission has determined that there is an adequate level of data protection. It also specifies the factors that the Commission considers when assessing the adequacy of data protection in a third country or international organization.,"- The Commission must assess the adequacy of the level of data protection in the third country or international organization.
+- The Commission may decide, through implementing acts, that a third country or international organization ensures an adequate level of data protection.
+- The Commission must monitor developments in third countries and international organizations that could affect data protection decisions.
+- If a third country or international organization no longer ensures an adequate level of data protection, the Commission may repeal, amend, or suspend its decision.
+- The Commission must consult with the third country or international organization to address any issues affecting data protection.
+- The Commission must publish a list of third countries, territories, sectors, and international organizations for which an adequate level of data protection is or is no longer ensured."
+46,"This article outlines the conditions under which a controller or processor can transfer personal data to a third country or international organization in the absence of a decision pursuant to Article 45(3) of the GDPR. It emphasizes the need for appropriate safeguards and the availability of enforceable data subject rights and legal remedies. Various methods of providing these safeguards are listed, including binding corporate rules, standard data protection clauses, approved codes of conduct, and certification mechanisms.","1. Implement appropriate safeguards when transferring personal data to a third country or international organization.
+2. Ensure enforceable data subject rights and effective legal remedies are available.
+3. Consider methods such as binding corporate rules, standard data protection clauses, approved codes of conduct, or certification mechanisms to provide safeguards.
+4. Obtain authorization from the supervisory authority when necessary.
+5. Maintain the validity of authorizations and decisions based on Directive 95/46/EC until amended, replaced, or repealed as required."
+47,"General Summary:
+This article outlines the requirements for the approval of binding corporate rules by the competent supervisory authority. These rules must be legally binding, apply to all members of the group of undertakings, confer enforceable rights on data subjects, and meet specific requirements. The rules must specify various aspects related to data processing, rights of data subjects, liability for breaches, information provision to data subjects, compliance monitoring, and reporting mechanisms.","Specific compliance requirements based on this article include detailing the structure and contact details of the group, specifying data transfers and processing details, ensuring legal binding nature, applying data protection principles, outlining data subject rights, establishing liability for breaches, providing information to data subjects, appointing a data protection officer, implementing complaint procedures, conducting compliance verification, reporting rule changes, cooperating with supervisory authorities, addressing legal requirements in third countries, and providing data protection training to relevant personnel."
+48,"General Summary:
+This article states that any court judgment or administrative decision from a third country requiring a controller or processor to transfer or disclose personal data must be based on an international agreement between the requesting country and the EU or a Member State for it to be recognized or enforced.",Compliance requirement based on this article is to ensure that any transfer or disclosure of personal data based on a court judgment or administrative decision from a third country must be in accordance with an international agreement in force between the requesting country and the EU or a Member State.
+49,"This article outlines the conditions under which transfers of personal data to third countries or international organizations are permitted in the absence of an adequacy decision or appropriate safeguards. It specifies various scenarios where such transfers are allowed, including explicit consent from the data subject, necessity for contract performance, public interest, legal claims, vital interests protection, and more. Additionally, it details requirements for limited and non-repetitive transfers based on compelling legitimate interests, with the controller obligated to inform the supervisory authority and data subjects about the transfer.","- Obtain explicit consent from the data subject for the transfer, informing them of potential risks.
+- Ensure the transfer is necessary for contract performance or in the data subject's interest.
+- Justify transfers for public interest, legal claims, vital interests protection, or from open registers.
+- Implement suitable safeguards for transfers not covered by specific provisions, based on compelling legitimate interests.
+- Inform the supervisory authority and data subjects about the transfer and the pursued legitimate interests.
+- Limit transfers from registers to specific data or categories and only upon request from legitimate persons.
+- Exclude activities by public authorities exercising public powers from certain transfer conditions.
+- Recognize public interest in Union or Member State law for specific data transfer limits.
+- Document assessments and safeguards"
+50,"General Summary:
+This article focuses on the importance of international cooperation in enforcing legislation for the protection of personal data. It highlights the need for mechanisms to facilitate cooperation, mutual assistance in enforcement, engagement with stakeholders, and exchange of information on data protection laws and practices.","- Develop international cooperation mechanisms for enforcing data protection laws.
+- Provide mutual assistance in enforcement through various means like notification, complaint referral, and information exchange.
+- Ensure appropriate safeguards for protecting personal data and fundamental rights.
+- Engage stakeholders in discussions to enhance international cooperation.
+- Promote exchange and documentation of data protection laws and practices, especially in cases of jurisdictional conflicts with third countries."
+51,"General Summary:
+This article outlines the requirement for each Member State to establish one or more independent public authorities, known as supervisory authorities, to monitor the application of the GDPR. These authorities are responsible for ensuring the protection of individuals' rights in relation to data processing and promoting the free flow of personal data within the EU. The supervisory authorities must work together to ensure consistent application of the GDPR across the Union.","1. Each Member State must establish one or more independent supervisory authorities to monitor GDPR compliance.
+2. Supervisory authorities must cooperate with each other and the Commission to ensure consistent application of the GDPR.
+3. Member States with multiple supervisory authorities must designate one authority to represent them in the Board and establish mechanisms for ensuring compliance with consistency rules.
+4. Member States must notify the Commission of the laws adopted in accordance with this chapter by 25 May 2018 and promptly inform of any subsequent amendments."
+52,This article outlines the requirements for supervisory authorities to act independently and without external influence in performing their tasks related to GDPR compliance.,"1. Supervisory authorities must act independently and free from external influence.
+2. Members of supervisory authorities must refrain from any actions incompatible with their duties and not engage in any incompatible occupation during their term of office.
+3. Member States must provide supervisory authorities with necessary resources for effective performance of tasks, including human, technical, and financial resources.
+4. Supervisory authorities must have their own staff under their exclusive direction.
+5. Supervisory authorities must have separate, public annual budgets that are not affected by financial control that could compromise their independence."
+53,"General Summary:
+This article outlines the requirements for the appointment and qualifications of members of supervisory authorities within Member States under the GDPR. It emphasizes the need for a transparent appointment process and specifies the qualifications, experience, and skills required for such members.","1. Members of supervisory authorities must be appointed through a transparent procedure by the parliament, government, head of State, or an independent body as per Member State law.
+2. Each member must possess the necessary qualifications, experience, and skills, particularly in the field of personal data protection, to effectively carry out their duties and exercise their powers.
+3. The duties of a member will cease upon the expiry of their term, resignation, or compulsory retirement in accordance with the relevant Member State laws.
+4. Dismissal of a member is only permitted in cases of serious misconduct or if the member no longer meets the required conditions for performing their duties."
+54,"General Summary:
+This article outlines the requirements for each Member State to establish a supervisory authority for GDPR compliance. It specifies the qualifications and appointment procedures for members of these authorities, as well as the duration of their terms and conditions for reappointment. It also addresses the obligations, prohibitions, and rules for cessation of employment for members and staff of these supervisory authorities.","- Each Member State must establish a supervisory authority for GDPR compliance.
+- Define qualifications and eligibility conditions for members of the supervisory authority.
+- Establish rules and procedures for the appointment of members.
+- Ensure a term of office for members of at least four years, with exceptions for staggered appointments.
+- Determine reappointment eligibility for members.
+- Define conditions, prohibitions, and rules for members and staff obligations, actions, occupations, and benefits during and after their term of office.
+- Enforce a duty of professional secrecy for members and staff, both during and after their term of office, regarding confidential information related to GDPR tasks and powers."
+55,"General Summary:
+This article outlines the competence of supervisory authorities under the GDPR, specifying that each authority is responsible for tasks and powers within its own Member State. It also clarifies that supervisory authorities do not have jurisdiction over processing operations conducted by courts in their judicial capacity.","- Each supervisory authority must perform tasks and exercise powers within its own Member State.
+- When processing is carried out by public authorities or private bodies based on specific points in Article 6(1), the supervisory authority of the relevant Member State is competent.
+- Article 56 does not apply in cases where processing falls under the specified points in Article 6(1).
+- Supervisory authorities do not have jurisdiction over processing operations of courts acting in their judicial capacity."
+56,This article outlines the procedures for determining the lead supervisory authority for cross-border data processing activities under the GDPR. It specifies the roles and responsibilities of supervisory authorities in handling complaints and infringements related to data processing within their jurisdiction.,"- The supervisory authority of the main or single establishment of the controller or processor should act as the lead supervisory authority for cross-border processing.
+- Each supervisory authority is competent to handle complaints or infringements related to establishments within its Member State or affecting data subjects primarily in its Member State.
+- The lead supervisory authority must be informed promptly in relevant cases, and a decision should be made within three weeks on whether to handle the case.
+- If the lead supervisory authority decides not to handle the case, the informing supervisory authority should proceed with handling it according to specified procedures.
+- The lead supervisory authority serves as the main point of contact for the controller or processor regarding cross-border data processing activities."
+57,"General Summary:
+The article outlines the various tasks and responsibilities of supervisory authorities under the GDPR. These authorities are required to monitor and enforce the application of the Regulation, promote public awareness, advise on legislative measures, handle complaints, cooperate with other authorities, conduct investigations, and fulfill other tasks related to the protection of personal data.","Based on this article, specific compliance requirements include:
+- Monitoring and enforcing the application of the GDPR
+- Promoting public awareness and understanding of data processing risks and rights
+- Advising on legislative measures related to data protection
+- Providing information to data subjects about their rights
+- Handling complaints and conducting investigations
+- Cooperating with other supervisory authorities
+- Adopting standard contractual clauses
+- Maintaining a list for data protection impact assessments
+- Encouraging codes of conduct and certification mechanisms
+- Approving binding corporate rules
+- Contributing to the activities of the Board
+- Keeping internal records of infringements and measures taken
+- Facilitating complaint submissions
+- Providing services free of charge to data subjects and data protection officers
+- Charging reasonable fees for unfounded or excessive requests, with justification."
+58,"This article outlines the investigative, corrective, and authorization/advisory powers of supervisory authorities under GDPR. It details the authority's abilities to investigate, audit, review certifications, notify infringements, access data, issue warnings, reprimands, and corrective orders, impose fines, and more. The article also specifies the authorization and advisory powers of supervisory authorities, including advising controllers, issuing opinions, authorizing processing, accrediting certification bodies, and approving codes of conduct and certifications.","- Supervisory authorities must have investigative powers to order information provision, conduct audits, review certifications, notify infringements, and access data.
+- Supervisory authorities must have corrective powers to issue warnings, reprimands, compliance orders, breach communications, processing limitations, rectifications, erasures, fines, and more.
+- Supervisory authorities must have authorization and advisory powers to advise controllers, issue opinions, authorize processing, accredit certification bodies, approve codes of conduct and certifications, adopt data protection clauses, and approve binding corporate rules.
+- The exercise of these powers must adhere to appropriate safeguards, judicial remedies, and due process as outlined in Union and Member State law.
+- Member States must empower supervisory authorities to bring GDPR infringements to judicial attention and enforce"
+59,"General Summary:
+This article outlines the requirement for each supervisory authority to prepare an annual report on their activities related to GDPR compliance. The report may include information on types of infringements reported and measures taken. These reports are to be shared with national parliament, government, designated authorities, the public, the European Commission, and the European Data Protection Board.","1. Supervisory authorities must prepare an annual report on their activities.
+2. The report may include details on types of infringements reported and measures taken.
+3. Reports must be shared with national parliament, government, designated authorities, the public, the European Commission, and the European Data Protection Board."
+60,"This article outlines the cooperation and decision-making process among lead supervisory authorities and other supervisory authorities in the context of GDPR compliance. It emphasizes the exchange of information, consultation on draft decisions, and mechanisms for resolving disagreements.","1. Lead supervisory authority must cooperate with other supervisory authorities to reach consensus.
+2. Exchange of all relevant information between lead supervisory authority and other supervisory authorities.
+3. Lead supervisory authority may request mutual assistance and conduct joint operations for investigations or monitoring.
+4. Communication of relevant information and draft decisions to other supervisory authorities for their opinion.
+5. Resolution process if other supervisory authorities express objections to draft decisions.
+6. Adoption and notification of decisions to the controller/processor and informing relevant parties.
+7. Controllers/processors must comply with decisions and notify lead supervisory authority of measures taken.
+8. Urgency procedure applies in exceptional circumstances.
+9. Information exchange between supervisory authorities must be done electronically using a standardized format."
+61,"This article outlines the requirement for supervisory authorities to provide each other with mutual assistance and relevant information to ensure consistent implementation of the GDPR. It specifies the procedures for cooperation, information exchange, and responding to requests from other supervisory authorities.","1. Supervisory authorities must cooperate with each other by providing relevant information and mutual assistance to implement the GDPR consistently.
+2. Requests for assistance must be responded to within one month, and the information exchanged should only be used for the specified purpose.
+3. The requested supervisory authority can refuse to comply only if it lacks competence or if compliance would violate GDPR or relevant laws.
+4. Information must be exchanged electronically in a standardized format, and no fees should be charged for mutual assistance actions.
+5. If a supervisory authority fails to respond within one month, the requesting authority can take provisional measures.
+6. The Commission may specify the format and procedures for mutual assistance through implementing acts."
+62,"This article outlines the provisions for supervisory authorities to conduct joint operations, investigations, and enforcement measures involving multiple Member States. It specifies the rights and responsibilities of supervisory authorities in joint operations and the liability for damages caused by staff operating in another Member State.","1. Supervisory authorities must invite other relevant authorities to participate in joint operations when necessary.
+2. Investigative powers may be conferred on staff from another supervisory authority with authorization and under the guidance of the host supervisory authority.
+3. The host supervisory authority assumes responsibility for the actions and liability of staff operating in its territory from another supervisory authority.
+4. Member States are responsible for reimbursing any damage caused by staff from another supervisory authority in their territory.
+5. Member States should refrain from requesting reimbursement from each other for damages caused in another Member State.
+6. If a supervisory authority fails to comply with obligations in a joint operation, other authorities may adopt provisional measures in their territory."
+63,"General Summary:
+This article emphasizes the importance of cooperation among supervisory authorities to ensure consistent application of the GDPR across the European Union.","- Supervisory authorities must cooperate with each other and, where relevant, with the Commission through the consistency mechanism outlined in this section."
+64,"This article outlines the process by which a competent supervisory authority must seek an opinion from the Board in various situations related to GDPR compliance, such as data protection impact assessments, code of conduct compliance, accreditation of bodies, certification criteria, standard data protection clauses, contractual clauses, and binding corporate rules. The Board must issue an opinion within a specified timeframe and the supervisory authority must consider this opinion in its decision-making process.","- The competent supervisory authority must seek an opinion from the Board in specific situations outlined in the article.
+- The Board must issue an opinion within a specified timeframe.
+- The supervisory authority must consider the Board's opinion and communicate its decision within two weeks.
+- If the supervisory authority does not intend to follow the Board's opinion, it must provide relevant grounds for its decision."
+65,"This article outlines the process for the European Data Protection Board to adopt binding decisions in specific cases where there are disagreements or conflicts among supervisory authorities regarding the application of the GDPR. The Board must make decisions within set timeframes and notify all relevant parties, with the final decision being published on the Board's website.","- The Board must adopt a binding decision within one month (extendable by another month for complex cases) by a two-thirds majority.
+- If a decision cannot be reached within the specified time, a decision must be made within two weeks by a simple majority or the Chair's vote.
+- Supervisory authorities involved must not make a decision on the matter during the specified periods.
+- The lead supervisory authority must adopt its final decision promptly based on the Board's decision and inform the Board of the date of notification to the controller, processor, and data subject.
+- The final decision must reference the Board's decision and state that it will be published on the Board's website."
+66,"General Summary:
+This article outlines the provisions for supervisory authorities to take urgent actions to protect the rights and freedoms of data subjects in exceptional circumstances. It allows for the adoption of provisional measures with a limited validity period and the possibility to request urgent opinions or binding decisions from the Board.","- Supervisory authorities must communicate any provisional measures adopted and the reasons for them to other relevant authorities, the Board, and the Commission without delay.
+- If final measures are deemed necessary, a supervisory authority can request an urgent opinion or binding decision from the Board, providing reasons for the request.
+- Any supervisory authority can request an urgent opinion or binding decision from the Board if another competent authority has not taken appropriate action in a situation requiring urgent protection of data subjects' rights and freedoms.
+- Urgent opinions or binding decisions from the Board must be adopted within two weeks by a simple majority of Board members, deviating from the usual timeframes specified in other articles."
+67,"General Summary:
+This article discusses the Commission's ability to adopt implementing acts to specify arrangements for exchanging information electronically between supervisory authorities and the Board, including standardised formats.",Compliance requirement includes adhering to the specified arrangements for electronic information exchange as outlined in the implementing acts adopted by the Commission.
+68,"General Summary:
+This article establishes the European Data Protection Board as a body of the Union with legal personality. It outlines the composition of the Board, which includes the head of one supervisory authority from each Member State and the European Data Protection Supervisor. The Commission has the right to participate in Board activities without voting rights.","- The Board must be composed of the head of one supervisory authority from each Member State and the European Data Protection Supervisor.
+- The Commission has the right to participate in Board activities without voting rights.
+- The Chair of the Board must communicate the activities of the Board to the Commission.
+- The European Data Protection Supervisor has voting rights on decisions concerning principles and rules applicable to Union institutions corresponding to GDPR regulations."
+69,"General Summary:
+This article emphasizes the independence of the Board when carrying out its tasks and exercising its powers under Articles 70 and 71 of the GDPR. It specifies that the Board should act autonomously and not be influenced by external instructions.","- The Board must act independently in performing its tasks and exercising its powers.
+- The Board should not seek or take instructions from any external entity while carrying out its duties."
+70,"This article outlines the responsibilities and functions of the Board in ensuring the consistent application of the GDPR. The Board is tasked with monitoring and advising on various aspects related to data protection, issuing guidelines, recommendations, and best practices, promoting cooperation among supervisory authorities, and maintaining a register of decisions. The Board plays a crucial role in providing guidance and ensuring compliance with the GDPR.","1. Monitor and ensure the correct application of the GDPR in specific cases.
+2. Advise the Commission on data protection issues and proposed amendments to the Regulation.
+3. Issue guidelines, recommendations, and best practices on various data protection procedures.
+4. Review and specify criteria for decisions based on profiling, personal data breaches, and high-risk situations.
+5. Provide guidance on personal data transfers based on binding corporate rules and other necessary requirements.
+6. Develop guidelines for supervisory authorities on measures, fines, and reporting infringements.
+7. Encourage codes of conduct, data protection certification mechanisms, and seals.
+8. Approve certification criteria and requirements for certification bodies.
+9. Provide opinions on certification requirements, icons, and adequacy of data protection levels in third countries or international organizations.
+10. Issue opinions on draft decisions of supervisory authorities and promote information exchange and training"
+71,"General Summary:
+This article outlines the requirement for the Board to prepare an annual report on the protection of individuals in the context of data processing within the EU and potentially in other countries. The report must be made public and shared with the European Parliament, the Council, and the Commission.","1. The Board must prepare an annual report on the protection of natural persons in data processing.
+2. The report must cover the application of guidelines, recommendations, best practices, and binding decisions related to data protection.
+3. The report must be made public and shared with specific entities, including the European Parliament, the Council, and the Commission."
+72,"General Summary:
+This article outlines the decision-making process of the Board under the GDPR. It specifies the majority required for decision-making and the adoption of rules of procedure by the Board.","- Decisions by the Board shall be taken by a simple majority of its members, unless stated otherwise in the Regulation.
+- The Board must adopt its own rules of procedure by a two-thirds majority of its members.
+- The Board is responsible for organizing its operational arrangements."
+73,"General Summary:
+This article outlines the process for electing a chair and two deputy chairs of the Board, specifying that they are chosen by a simple majority vote from among the Board members. It also states that the term of office for the Chair and deputy chairs is five years, with the possibility of renewal once.","1. The Board must elect a chair and two deputy chairs by a simple majority vote from its members.
+2. The term of office for the Chair and deputy chairs is five years, and they can be renewed once."
+74,"General Summary:
+This article outlines the tasks of the Chair within the GDPR framework, which include convening Board meetings, preparing agendas, notifying decisions to supervisory authorities, and ensuring timely task performance, especially concerning the consistency mechanism.","- The Chair must convene Board meetings and prepare agendas.
+- The Chair is responsible for notifying decisions to the lead supervisory authority and other relevant supervisory authorities.
+- The Chair must ensure timely task performance, particularly related to the consistency mechanism.
+- The Board must establish the allocation of tasks between the Chair and deputy chairs in its rules of procedure."
+75,"General Summary:
+This article outlines the establishment and responsibilities of the secretariat for the Board under the GDPR. The secretariat, provided by the European Data Protection Supervisor, is tasked with providing support to the Board in various administrative and logistical functions.","1. The Board must have a secretariat provided by the European Data Protection Supervisor.
+2. The secretariat must operate under the instructions of the Chair of the Board.
+3. Staff involved in tasks for the Board must have separate reporting lines from staff working on tasks for the European Data Protection Supervisor.
+4. A Memorandum of Understanding must be established between the Board and the European Data Protection Supervisor, outlining cooperation terms.
+5. The secretariat is responsible for various tasks including day-to-day business, communication, translation, and preparation of opinions and decisions."
+76,"General Summary:
+This article pertains to the confidentiality of discussions within the Board and the access to documents submitted to members, experts, and third-party representatives. It references Regulation (EC) No 1049/2001 regarding public access to European Parliament, Council, and Commission documents.",Compliance requirements based on this article include ensuring that discussions within the Board are kept confidential when deemed necessary and following the regulations outlined in Regulation (EC) No 1049/2001 for access to documents by relevant parties.
+77,"General Summary:
+This article outlines the right of every data subject to lodge a complaint with a supervisory authority if they believe that the processing of their personal data infringes the GDPR. The supervisory authority must keep the complainant informed about the progress and outcome of the complaint.","- Data subjects have the right to lodge a complaint with a supervisory authority if they believe their personal data is being processed in violation of the GDPR.
+- The supervisory authority must inform the complainant about the progress and outcome of the complaint.
+- The complainant should be informed about the possibility of seeking a judicial remedy according to Article 78."
+78,"General Summary:
+This article outlines the right of individuals, both natural and legal persons, to seek an effective judicial remedy against decisions made by a supervisory authority regarding them. It also specifies the process to be followed if a supervisory authority fails to handle a complaint within a specified timeframe.","- Individuals have the right to an effective judicial remedy against decisions made by a supervisory authority.
+- If a supervisory authority does not handle a complaint or inform the data subject within three months, the data subject has the right to seek a judicial remedy.
+- Proceedings against a supervisory authority must be brought before the courts of the Member State where the authority is established.
+- If a decision of a supervisory authority follows an opinion or decision of the Board, the authority must forward that opinion or decision to the court."
+79,"General Summary:
+This article outlines the right of data subjects to seek judicial remedies if they believe their rights under the GDPR have been violated due to non-compliance with the regulation. It specifies the jurisdiction where legal proceedings can be initiated against data controllers or processors.","- Data subjects have the right to seek an effective judicial remedy if they believe their rights under the GDPR have been infringed.
+- Legal proceedings against a controller or processor can be initiated in the Member State where the entity is established or where the data subject resides.
+- Public authorities of a Member State acting in their public powers may also be subject to legal proceedings."
+80,"General Summary:
+This article outlines the rights of data subjects to appoint a not-for-profit body, organization, or association to lodge complaints on their behalf regarding the protection of their personal data. It also allows for such bodies to independently lodge complaints with the supervisory authority if they believe a data subject's rights have been violated.","- Data subjects have the right to appoint a not-for-profit body to lodge complaints on their behalf.
+- Not-for-profit bodies must be properly constituted, have statutory objectives in the public interest, and be active in data protection.
+- Such bodies can also independently lodge complaints with the supervisory authority if they believe data subject rights have been infringed."
+81,"General Summary:
+This article outlines the procedures to be followed by competent courts in different Member States when they have information about pending proceedings related to the same subject matter involving the same controller or processor. It emphasizes the need for communication and coordination between courts to avoid duplication and ensure efficient handling of cases.","- Competent courts in different Member States must contact each other if they have information about related proceedings involving the same controller or processor.
+- Courts, other than the first seized court, may suspend their proceedings if similar cases are pending in another Member State.
+- Courts may decline jurisdiction if the first seized court has jurisdiction and its law allows for consolidation of actions."
+82,"General Summary:
+This article outlines the right of individuals to receive compensation for any material or non-material damage caused by a violation of the GDPR. It specifies the liability of controllers and processors for such damages and the conditions under which they can be exempt from liability. The article also addresses situations where multiple controllers or processors are involved in the same processing and how liability for damages should be allocated among them.","- Controllers and processors are liable for damages caused by processing that violates the GDPR.
+- Processors are liable if they fail to comply with obligations directed to processors or act contrary to the controller's lawful instructions.
+- Controllers or processors can be exempt from liability if they prove they are not responsible for the damage.
+- In cases where multiple controllers or processors are involved, each party is responsible for the entire damage to ensure effective compensation for the data subject.
+- Controllers or processors who have paid compensation can claim back from other parties involved based on their responsibility for the damage.
+- Court proceedings for compensation claims should be brought before the competent courts as per the Member State's law."
+83,"This article outlines the requirements for imposing administrative fines for infringements of the GDPR. It emphasizes that fines should be effective, proportionate, and dissuasive. The article specifies factors to consider when determining fines, such as the nature of the infringement, actions taken to mitigate damage, and cooperation with supervisory authorities. It also sets out different levels of fines based on the severity of the infringement.","1. Factors to consider when imposing fines include the nature, gravity, and duration of the infringement, intentional or negligent character, actions taken to mitigate damage, responsibility of the controller or processor, previous infringements, cooperation with supervisory authorities, personal data affected, adherence to codes of conduct or certification mechanisms, and other relevant factors.
+2. The total amount of the administrative fine for multiple infringements should not exceed the amount specified for the gravest infringement.
+3. Infringements of specific provisions can result in fines up to certain amounts based on the severity of the violation.
+4. Non-compliance with orders from supervisory authorities can lead to fines.
+5. Member States can determine rules for imposing fines on public authorities.
+6. The exercise of powers by supervisory authorities must adhere to procedural safeguards, including judicial remedy and due process."
+84,"General Summary:
+This article outlines that Member States must establish rules for penalties related to GDPR infringements that are not subject to administrative fines. These penalties should be effective, proportionate, and dissuasive. Member States are required to notify the European Commission of the laws they adopt for these penalties by a specified deadline.","1. Member States must establish rules for penalties applicable to GDPR infringements not subject to administrative fines.
+2. Penalties must be effective, proportionate, and dissuasive.
+3. Member States must notify the European Commission of the laws they adopt for these penalties by 25 May 2018 and any subsequent amendments without delay."
+85,"General Summary:
+This article outlines the requirement for Member States to balance the protection of personal data with the right to freedom of expression and information, particularly in the context of journalistic, academic, artistic, or literary activities.","1. Member States must establish laws that reconcile the protection of personal data with freedom of expression and information.
+2. Exemptions or derogations from certain GDPR chapters are allowed for processing related to journalistic, academic, artistic, or literary purposes if necessary to balance these rights.
+3. Member States must notify the European Commission of the laws adopted to reconcile these rights and any subsequent amendments to these laws."
+86,"General Summary:
+This article addresses the disclosure of personal data in official documents held by public authorities or bodies, as well as private bodies performing tasks in the public interest. It emphasizes the need to balance public access to official documents with the protection of personal data as outlined in the GDPR.","Compliance requirements based on this article include:
+- Disclosure of personal data in official documents must be done in accordance with relevant Union or Member State laws.
+- Public authorities and bodies must ensure that personal data disclosure aligns with the principles of the GDPR, particularly regarding the protection of personal data."
+87,"General Summary:
+This article allows Member States to establish specific conditions for processing national identification numbers or other general identifiers. It emphasizes the importance of using these identifiers only with appropriate safeguards to protect the rights and freedoms of data subjects.","- Member States must determine specific conditions for processing national identification numbers or other general identifiers.
+- These identifiers should only be used with appropriate safeguards in place to protect the rights and freedoms of data subjects as outlined in the GDPR."
+88,"General Summary:
+This article discusses the ability of Member States to establish specific rules to protect employees' personal data in the context of employment. These rules cover various aspects of employment, such as recruitment, contract performance, management, equality, health and safety, and termination of employment. The rules must include measures to protect the data subject's dignity, interests, and rights, focusing on transparency, data transfers within groups of companies, and workplace monitoring.","1. Member States can establish specific rules to protect employees' personal data in the employment context.
+2. Rules must cover various aspects of employment and include measures to safeguard data subjects' dignity, interests, and rights.
+3. Emphasis should be placed on transparency of processing, data transfers within groups of companies, and workplace monitoring.
+4. Member States must notify the Commission of these rules by 25 May 2018 and any subsequent amendments promptly."
+89,"General Summary:
+This article outlines the requirements for processing personal data for archiving purposes in the public interest, scientific or historical research, or statistical purposes. It emphasizes the need for appropriate safeguards to protect the rights and freedoms of data subjects, including implementing technical and organizational measures to ensure data minimization and potentially using pseudonymization. It also allows for derogations from certain data subject rights under specific conditions when necessary for achieving these purposes.","- Implement appropriate safeguards to protect the rights and freedoms of data subjects.
+- Use technical and organizational measures to ensure data minimization.
+- Consider pseudonymization as a potential measure for fulfilling processing purposes.
+- Adhere to derogations from certain data subject rights under specific conditions when necessary for achieving the specified purposes.
+- Comply with Union or Member State laws that may provide derogations from specific data subject rights under certain conditions and safeguards."
+90,"General Summary:
+This article allows Member States to establish specific rules regarding the powers of supervisory authorities in relation to controllers or processors who are bound by professional secrecy obligations. These rules aim to balance the protection of personal data with the obligation of secrecy.","1. Member States may adopt specific rules outlining the powers of supervisory authorities in relation to controllers or processors bound by professional secrecy obligations.
+2. The rules should only apply to personal data received or obtained as a result of activities covered by the obligation of secrecy.
+3. Member States must notify the European Commission of the rules adopted by May 25, 2018, and any subsequent amendments promptly."
+91,"General Summary:
+This article addresses the application of GDPR rules to churches and religious associations or communities that already have comprehensive data protection rules in place. It allows these organizations to continue using their existing rules as long as they are aligned with GDPR requirements.","1. Churches and religious associations must ensure that their existing data protection rules are in line with the GDPR.
+2. These organizations will be supervised by an independent supervisory authority that meets the conditions specified in Chapter VI of the GDPR."
+92,"General Summary:
+This article outlines the delegation of power to the Commission under specific conditions, with provisions for revocation by the European Parliament or Council. It also specifies the process for adoption and entry into force of delegated acts.","- The Commission must notify the European Parliament and Council simultaneously upon adopting a delegated act.
+- A delegated act will enter into force unless objections are raised by the European Parliament or Council within a three-month period, which can be extended by another three months."
+93,"The article outlines the establishment of a committee to assist the Commission in GDPR matters, referencing specific regulations for guidance.","- Establish a committee to assist the Commission in GDPR implementation.
+- Ensure compliance with Regulation (EU) No 182/2011, particularly Articles 5 and 8."
+94,"General Summary:
+This article states that Directive 95/46/EC has been repealed as of 25 May 2018. It clarifies that references to the repealed Directive should now be understood as references to the GDPR. Additionally, references to the Working Party on the Protection of Individuals with regard to the Processing of Personal Data established by Article 29 of Directive 95/46/EC should now be understood as references to the European Data Protection Board established by the GDPR.","1. Ensure that any references to Directive 95/46/EC are updated to refer to the GDPR.
+2. Update any references to the Working Party on the Protection of Individuals to now refer to the European Data Protection Board as established by the GDPR."
+95,"General Summary:
+This article states that the GDPR does not add extra obligations for individuals or organizations involved in processing data for publicly available electronic communications services within the EU, if they are already subject to specific obligations outlined in Directive 2002/58/EC.",- Individuals or organizations providing publicly available electronic communications services must comply with the specific obligations set out in Directive 2002/58/EC.
+96,"General Summary:
+This article states that international agreements related to the transfer of personal data to third countries or international organizations, which were agreed upon by Member States before May 24, 2016, and were compliant with Union law at that time, will continue to be valid until they are updated, substituted, or canceled.","1. Ensure that any existing international agreements involving the transfer of personal data comply with Union law.
+2. Regularly review and assess these agreements to determine if they need to be amended, replaced, or revoked in order to remain compliant with GDPR regulations."
+97,"General Summary:
+This article outlines the requirement for the European Commission to submit a report every four years evaluating and reviewing the GDPR to the European Parliament and Council. The reports will be made public and will focus on specific chapters related to the transfer of personal data to third countries, cooperation, and consistency. The Commission may request information from Member States and supervisory authorities for these evaluations. Additionally, the Commission will consider input from relevant bodies and may propose amendments to the Regulation based on technological developments and societal progress.","1. The European Commission must submit a report on the evaluation and review of the GDPR to the European Parliament and Council every four years.
+2. The reports must focus on specific chapters related to the transfer of personal data to third countries and cooperation and consistency.
+3. The Commission may request information from Member States and supervisory authorities for the evaluations.
+4. The Commission must consider input from the European Parliament, Council, and other relevant bodies.
+5. The Commission may propose amendments to the Regulation based on technological developments and societal progress."
+98,"General Summary:
+This article outlines the Commission's authority to propose legislative changes to other Union legal acts in order to ensure consistent protection of personal data, especially concerning processing by Union institutions and the free movement of data.","- The Commission must submit legislative proposals for amending other Union legal acts to ensure uniform protection of personal data.
+- The focus should be on rules related to processing by Union institutions, bodies, offices, and agencies, as well as on the free movement of data."
+99,"General Summary:
+The article states that the GDPR Regulation will come into force twenty days after its publication in the Official Journal of the European Union and will be applicable from 25 May 2018.","1. Organizations must ensure compliance with the GDPR Regulation by 25 May 2018.
+2. Organizations should be aware of the effective date of the Regulation to avoid any non-compliance issues."
